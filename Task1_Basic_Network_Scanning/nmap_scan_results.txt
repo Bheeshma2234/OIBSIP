@@ -1,0 +1,132 @@
+===========================================================
+OASIS INFOBYTE CYBER SECURITY INTERNSHIP
+Task 1 - Basic Network Scanning with Nmap
+===========================================================
+
+Date:
+29 July 2026
+
+Target Machine:
+192.168.0.5
+
+Operating System:
+Microsoft Windows 11
+
+-----------------------------------------------------------
+1. Nmap Version
+-----------------------------------------------------------
+
+Command:
+nmap --version
+
+Output:
+Nmap version 7.99
+Platform: i686-pc-windows-windows
+Npcap version: 1.87
+
+-----------------------------------------------------------
+2. Basic Network Scan
+-----------------------------------------------------------
+
+Command:
+nmap 192.168.0.5
+
+Output:
+
+Host is up (0.00021s latency).
+
+Open TCP Ports
+
+135/tcp   open   msrpc
+139/tcp   open   netbios-ssn
+445/tcp   open   microsoft-ds
+3306/tcp  open   mysql
+
+-----------------------------------------------------------
+3. Service Version Detection
+-----------------------------------------------------------
+
+Command:
+nmap -sV 192.168.0.5
+
+Output:
+
+135/tcp
+Microsoft Windows RPC
+
+139/tcp
+Microsoft Windows NetBIOS Session Service
+
+445/tcp
+Microsoft-DS
+
+3306/tcp
+MySQL (unauthorized)
+
+Service Info:
+Operating System: Microsoft Windows
+
+-----------------------------------------------------------
+4. Operating System Detection
+-----------------------------------------------------------
+
+Command:
+nmap -O 192.168.0.5
+
+Output:
+
+Device Type:
+General Purpose
+
+Operating System:
+Microsoft Windows 11
+
+Version:
+24H2 – 25H2
+
+Network Distance:
+0 hops
+
+-----------------------------------------------------------
+5. Analysis of Open Ports
+-----------------------------------------------------------
+
+Port 135 (MSRPC)
+Purpose:
+Microsoft Remote Procedure Call used by Windows services.
+
+Security Risk:
+If exposed to untrusted networks, attackers may attempt to exploit Windows services.
+
+-----------------------------------------------------------
+
+Port 139 (NetBIOS)
+Purpose:
+Used for Windows file and printer sharing.
+
+Security Risk:
+Can expose shared resources if not properly secured.
+
+-----------------------------------------------------------
+
+Port 445 (Microsoft-DS / SMB)
+Purpose:
+Windows file sharing protocol.
+
+Security Risk:
+Frequently targeted by malware and ransomware if left exposed.
+
+-----------------------------------------------------------
+
+Port 3306 (MySQL)
+Purpose:
+Database server communication.
+
+Security Risk:
+Database services should not be publicly accessible without strong authentication and firewall protection.
+
+-----------------------------------------------------------
+6. Conclusion
+-----------------------------------------------------------
+
+The network scan successfully identified the open ports, detected the available services, and identified the operating system running on the target machine. This task provided practical experience in using Nmap for network discovery and basic security assessment.
