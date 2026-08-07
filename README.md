@@ -1,5 +1,3 @@
-# OIBSIP
-
 # Oasis Infobyte Internship Projects
 
 Welcome to my **Oasis Infobyte Internship Repository**.
@@ -41,7 +39,7 @@ OIBSIP
 
 ---
 
-# 🔐 Cyber Security Internship
+## 🔐 Cyber Security Internship
 
 The **CyberSecurity** folder contains projects completed during the Oasis Infobyte Cyber Security Internship.
 
@@ -64,7 +62,7 @@ Each task folder contains:
 
 ---
 
-# ☕ Java Development Internship
+## ☕ Java Development Internship
 
 The **JavaDevelopment** folder contains projects completed during the Oasis Infobyte Java Development Internship.
 
@@ -85,9 +83,9 @@ Each project folder will contain:
 
 ---
 
-# Technologies Used
+## Technologies Used
 
-## Cyber Security
+### Cyber Security
 
 * Nmap
 * Windows Defender Firewall
@@ -95,7 +93,7 @@ Each project folder will contain:
 * Network Security Concepts
 * Security Research
 
-## Java Development
+### Java Development
 
 * Java
 * Object-Oriented Programming (OOP)
@@ -106,7 +104,7 @@ Each project folder will contain:
 
 ---
 
-# Author
+## Author
 
 **Name:** A. Bheeshma Shankar
 
