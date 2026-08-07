@@ -1,276 +1,217 @@
-\# Cyber Security Internship
+# 🔐 Cyber Security Internship
 
+## 📌 Overview
 
+This folder contains all projects completed during the **Oasis Infobyte Cyber Security Internship**.
 
-\## Overview
+The internship focused on gaining practical knowledge of cybersecurity concepts through hands-on tasks, security research, network analysis, firewall configuration, and threat awareness activities.
 
+---
 
+# 🏢 Internship Details
 
-This folder contains all the projects completed during the \*\*Oasis Infobyte Cyber Security Internship\*\*.
+| Details | Information |
+|---------|-------------|
+| Organization | Oasis Infobyte |
+| Track | Cyber Security |
+| Duration | 1 Month |
+| Intern | A. Bheeshma Shankar |
 
+---
 
+# 🎯 Internship Objectives
 
-The internship was designed to provide practical exposure to various cybersecurity concepts including network security, firewall configuration, vulnerability analysis, and security awareness through research-based and practical tasks.
+The main objectives of this internship were:
 
+- To understand the fundamentals of Cyber Security.
+- To learn network scanning and reconnaissance techniques.
+- To analyze network security vulnerabilities.
+- To configure and understand firewall protection mechanisms.
+- To study different cyber threats and attack techniques.
+- To learn security awareness and prevention methods.
+- To improve technical documentation and reporting skills.
 
+---
 
-\---
+# ✅ Completed Tasks
 
+## 🔍 Task 1: Basic Network Scanning
 
+### Objective
 
-\# Internship Details
+To perform network scanning and identify active devices, open ports, and running services in a network.
 
+### Tools Used
 
+- Nmap
+- Zenmap
 
-\*\*Organization:\*\* Oasis Infobyte
+### Concepts Learned
 
+- Host Discovery
+- IP Address Identification
+- Port Scanning
+- TCP Scanning
+- Service Detection
+- Network Enumeration
 
+### Description
 
-\*\*Track:\*\* Cyber Security
+Network scanning is an important cybersecurity activity used during the reconnaissance phase.
 
+This task helped in understanding how network information can be collected, analyzed, and secured by identifying open ports, available services, and possible security risks.
 
+---
 
-\*\*Duration:\*\* 1 Month
+# 🛡️ Task 2: Basic Firewall Configuration
 
+### Objective
 
+To configure firewall rules and control network traffic by allowing or blocking specific connections.
 
-\---
+### Tools Used
 
+- Windows Defender Firewall
 
+### Concepts Learned
 
-\# Objectives
+- Firewall Rules
+- Inbound Traffic Control
+- Outbound Traffic Control
+- Port Blocking
+- Network Filtering
+- Security Policies
 
+### Description
 
+This task involved configuring firewall settings to improve system security.
 
-The primary objectives of this internship were:
+Different firewall rules were analyzed to understand how firewalls protect systems from unauthorized access and prevent unwanted network communication.
 
+---
 
+# 🌐 Task 4: Network Security Threats
 
-\* Learn the fundamentals of cyber security.
+### Objective
 
-\* Understand network scanning techniques.
+To study common network security threats, their impact, and prevention techniques.
 
-\* Configure and manage firewalls.
+### Topics Covered
 
-\* Study common network attacks and defense mechanisms.
+- Denial of Service (DoS)
+- Distributed Denial of Service (DDoS)
+- Man-in-the-Middle Attack (MITM)
+- DNS Poisoning
+- IP Spoofing
 
-\* Explore social engineering attacks and prevention methods.
+### Description
 
-\* Improve technical documentation and reporting skills.
+This research task focused on understanding different network-based attacks, their working mechanisms, security risks, and methods used to prevent such attacks.
 
+It helped in improving knowledge about defensive security practices and threat mitigation strategies.
 
+---
 
-\---
+# 🎭 Task 5: Social Engineering
 
+### Objective
 
+To research different social engineering attacks and understand how attackers manipulate human behavior to gain unauthorized access.
 
-\# Completed Tasks
+### Topics Covered
 
+- Phishing
+- Spear Phishing
+- Whaling
+- Smishing
+- Vishing
+- Baiting
+- Pretexting
+- Quid Pro Quo
 
+### Description
 
-\## Task 1 – Basic Network Scanning
+This task focused on human-based cyber attacks and the techniques used by attackers to exploit trust.
 
+It improved awareness about online security practices, user behavior, and prevention methods against social engineering attacks.
 
+---
 
-\### Objective
+# 📂 Project Structure
 
+The repository is organized as follows:
 
+## 📁 Task1_Basic_Network_Scanning
 
-Perform network scanning to identify active devices, open ports, and running services.
+Contains:
 
+- README.md
+- nmap_scan_results.txt
+- screenshots
 
+---
 
-\### Tools Used
+## 📁 Task2_Basic_Firewall_Configuration
 
+Contains:
 
+- README.md
+- ufw_configuration.sh
+- screenshots
 
-\* Nmap
+---
 
-\* Zenmap
+## 📁 Task4_Network_Security_Threats
 
+Contains:
 
+- README.md
+- network_security_threats_report.md
 
-\### Concepts Covered
+---
 
+## 📁 Task5_Social_Engineering
 
+Contains:
 
-\* Host Discovery
+- README.md
+- social_engineering_report.md
 
-\* Port Scanning
+---
 
-\* TCP Scan
+# 🧠 Skills Gained
 
-\* Service Detection
+Through this internship, I gained practical experience in:
 
-\* Network Enumeration
+- Cyber Security Fundamentals
+- Network Security Concepts
+- Network Scanning using Nmap
+- Firewall Configuration
+- Threat Analysis
+- Social Engineering Awareness
+- Security Research
+- Technical Documentation
+- Cyber Threat Prevention Techniques
 
+---
 
+# 🏆 Internship Outcome
 
-\---
+Successfully completed cybersecurity projects involving:
 
+- Network reconnaissance and analysis
+- Firewall configuration and security management
+- Cyber threat research
+- Social engineering awareness
 
+The internship enhanced practical understanding of cybersecurity concepts and improved skills in security analysis, documentation, and problem-solving.
 
-\## Task 2 – Basic Firewall Configuration
+---
 
+# 👨‍💻 Author
 
+**A. Bheeshma Shankar**
 
-\### Objective
+GitHub:
 
-
-
-Configure firewall rules to secure a system by allowing or blocking specific network traffic.
-
-
-
-\### Tools Used
-
-
-
-\* Windows Defender Firewall
-
-
-
-\### Concepts Covered
-
-
-
-\* Inbound Rules
-
-\* Outbound Rules
-
-\* Port Blocking
-
-\* Firewall Policies
-
-
-
-\---
-
-
-
-\## Task 4 – Network Security Threats
-
-
-
-\### Objective
-
-
-
-Study common network attacks and understand their impact and mitigation techniques.
-
-
-
-\### Topics Covered
-
-
-
-\* Denial of Service (DoS)
-
-\* Distributed Denial of Service (DDoS)
-
-\* Man-in-the-Middle Attack
-
-\* DNS Poisoning
-
-\* IP Spoofing
-
-
-
-\---
-
-
-
-\## Task 5 – Social Engineering
-
-
-
-\### Objective
-
-
-
-Research different social engineering attacks and methods to defend against them.
-
-
-
-\### Topics Covered
-
-
-
-\* Phishing
-
-\* Spear Phishing
-
-\* Whaling
-
-\* Smishing
-
-\* Vishing
-
-\* Baiting
-
-\* Pretexting
-
-\* Quid Pro Quo
-
-
-
-\---
-
-
-
-\# Folder Contents
-
-
-
-Each task folder includes:
-
-
-
-\* Project Files
-
-\* Reports
-
-\* Documentation
-
-\* Screenshots
-
-\* Supporting Materials
-
-
-
-\---
-
-
-
-\# Skills Gained
-
-
-
-\* Network Security
-
-\* Threat Analysis
-
-\* Firewall Configuration
-
-\* Security Documentation
-
-\* Cyber Security Fundamentals
-
-
-
-\---
-
-
-
-\# Author
-
-
-
-\*\*A. Bheeshma Shankar\*\*
-
-
-
-GitHub: https://github.com/Bheeshma2234
-
-
-
+https://github.com/Bheeshma2234
