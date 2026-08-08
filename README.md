@@ -19,7 +19,7 @@ Each track has its own folder containing project source code, documentation, rep
 
 ## Repository Structure
 
-```text
+```
 OIBSIP
 │
 ├── README.md
@@ -33,6 +33,7 @@ OIBSIP
 │
 └── JavaDevelopment
     ├── README.md
+    ├── Task1_Online_Reservation_System
     ├── Task2_NumberGuessingGame
     └── Task3_ATMInterface
 ```
@@ -68,8 +69,9 @@ The **JavaDevelopment** folder contains projects completed during the Oasis Info
 
 The internship focuses on strengthening Java programming skills through object-oriented programming, problem solving, GUI development, and database connectivity.
 
-### Planned Projects
+### Completed Projects
 
+* Online Reservation System
 * Number Guessing Game
 * ATM Interface
 
