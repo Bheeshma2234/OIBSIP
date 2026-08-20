@@ -1,20 +1,26 @@
-Oasis Infobyte Internship Projects
+# Oasis Infobyte Internship Projects
 
-Welcome to my Oasis Infobyte Internship Repository.
+Welcome to my **Oasis Infobyte Internship Repository**.
 
-This repository contains all the projects completed as part of the Oasis Infobyte Internship Program. The projects are organized according to their respective internship tracks to maintain a clear and structured repository.
+This repository contains all the projects completed as part of the **Oasis Infobyte Internship Program**. The projects are organized according to their respective internship tracks to maintain a clear and structured repository.
 
-Repository Overview
+---
+
+## Repository Overview
 
 This repository currently includes projects from the following internship tracks:
 
-🔐 Cyber Security Internship
-☕ Java Development Internship
-📊 Data Science Internship
+- 🔐 **Cyber Security Internship**
+- ☕ **Java Development Internship**
+- 📊 **Data Science Internship**
 
 Each track has its own folder containing project source code, documentation, reports, screenshots, and other supporting resources.
 
-Repository Structure
+---
+
+## Repository Structure
+
+```text
 OIBSIP
 │
 ├── README.md
@@ -78,7 +84,7 @@ Project Report (if applicable)
 
 The DataScience folder contains projects completed during the Oasis Infobyte Data Science Internship.
 
-The internship focuses on developing practical data science and machine learning skills through data analysis, preprocessing, visualization, classification, regression, and natural language processing.
+The internship focuses on developing practical data science and machine learning skills through data analysis, data preprocessing, data visualization, classification, regression, and natural language processing.
 
 Completed Projects
 Iris Flower Classification
@@ -90,6 +96,9 @@ Each project folder will contain:
 Python Source Code
 README Documentation
 Dataset / Dataset Information
+Data Preprocessing
+Data Visualization
+Model Implementation
 Screenshots
 Output Images
 Project Report (if applicable)
@@ -119,6 +128,33 @@ Jupyter Notebook
 VS Code
 Git
 GitHub
+Skills Developed
+Cyber Security
+Network Scanning
+Firewall Configuration
+Security Analysis
+Threat Identification
+Social Engineering Awareness
+Security Research
+Java Development
+Core Java Programming
+Object-Oriented Programming
+Problem Solving
+Application Development
+User Input Handling
+Exception Handling
+Git and GitHub
+Data Science
+Data Collection and Analysis
+Data Preprocessing
+Exploratory Data Analysis
+Data Visualization
+Machine Learning
+Classification
+Regression
+Natural Language Processing
+Model Evaluation
+Python Programming
 Author
 
 Name: A. Bheeshma Shankar
@@ -128,5 +164,11 @@ College: Chaitanya Bharathi Institute of Technology (CBIT)
 Branch: Computer Science and Engineering (Artificial Intelligence & Machine Learning)
 
 GitHub: https://github.com/Bheeshma2234
+
+Conclusion
+
+The Oasis Infobyte Internship provided an opportunity to gain practical experience across different technical domains including Cyber Security, Java Development, and Data Science.
+
+The projects in this repository demonstrate practical implementation of programming, cybersecurity concepts, data analysis, machine learning, problem solving, and application development.
 
 Thank you for visiting my repository. Feedback and suggestions are always welcome.
