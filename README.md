@@ -2,23 +2,19 @@
 
 Welcome to my **Oasis Infobyte Internship Repository**.
 
-This repository contains all the projects completed as part of the **Oasis Infobyte Internship Program**. The projects are organized according to their respective internship tracks to maintain a clear and structured repository.
+This repository contains the projects completed as part of the **Oasis Infobyte Internship Program**. The projects are organized according to their respective internship tracks to maintain a clear and structured repository.
 
----
+## 📂 Repository Overview
 
-## Repository Overview
+This repository includes projects from the following internship tracks:
 
-This repository currently includes projects from the following internship tracks:
+* 🔐 **Cyber Security Internship**
+* ☕ **Java Development Internship**
+* 📊 **Data Science Internship**
 
-- 🔐 **Cyber Security Internship**
-- ☕ **Java Development Internship**
-- 📊 **Data Science Internship**
+Each track has its own folder containing project source code, documentation, reports, screenshots, and supporting resources.
 
-Each track has its own folder containing project source code, documentation, reports, screenshots, and other supporting resources.
-
----
-
-## Repository Structure
+## 📁 Repository Structure
 
 ```text
 OIBSIP
@@ -43,131 +39,153 @@ OIBSIP
     ├── Task1_Iris_Flower_Classification
     ├── Task2_SMS_Spam_Detection
     └── Task3_Car_Price_Prediction
-🔐 Cyber Security Internship
+```
 
-The CyberSecurity folder contains projects completed during the Oasis Infobyte Cyber Security Internship.
+## 🔐 Cyber Security Internship
+
+The **CyberSecurity** folder contains projects completed during the Oasis Infobyte Cyber Security Internship.
 
 The internship focused on developing practical cybersecurity skills through hands-on tasks, security analysis, research, and documentation.
 
-Completed Tasks
-Basic Network Scanning
-Basic Firewall Configuration
-Network Security Threats
-Social Engineering
+### Completed Tasks
+
+* Basic Network Scanning
+* Basic Firewall Configuration
+* Network Security Threats
+* Social Engineering
 
 Each task folder contains:
 
-Project Files
-Documentation
-Research Reports
-Screenshots
-Supporting Resources
-☕ Java Development Internship
+* Project Files
+* Documentation
+* Research Reports
+* Screenshots
+* Supporting Resources
 
-The JavaDevelopment folder contains projects completed during the Oasis Infobyte Java Development Internship.
+## ☕ Java Development Internship
 
-The internship focuses on strengthening Java programming skills through object-oriented programming, problem solving, GUI development, and database connectivity.
+The **JavaDevelopment** folder contains projects completed during the Oasis Infobyte Java Development Internship.
 
-Completed Projects
-Online Reservation System
-Number Guessing Game
-ATM Interface
+The internship focused on strengthening Java programming skills through object-oriented programming, problem solving, application development, GUI development, and database connectivity.
 
-Each project folder will contain:
+### Completed Projects
 
-Java Source Code
-README Documentation
-Screenshots
-Output Images
-Project Report (if applicable)
-📊 Data Science Internship
+* Online Reservation System
+* Number Guessing Game
+* ATM Interface
 
-The DataScience folder contains projects completed during the Oasis Infobyte Data Science Internship.
+Each project folder contains:
 
-The internship focuses on developing practical data science and machine learning skills through data analysis, data preprocessing, data visualization, classification, regression, and natural language processing.
+* Java Source Code
+* README Documentation
+* Screenshots
+* Output Images
+* Project Report (if applicable)
 
-Completed Projects
-Iris Flower Classification
-SMS Spam Detection
-Car Price Prediction
+## 📊 Data Science Internship
 
-Each project folder will contain:
+The **DataScience** folder contains projects completed during the Oasis Infobyte Data Science Internship.
 
-Python Source Code
-README Documentation
-Dataset / Dataset Information
-Data Preprocessing
-Data Visualization
-Model Implementation
-Screenshots
-Output Images
-Project Report (if applicable)
-Technologies Used
-Cyber Security
-Nmap
-Windows Defender Firewall
-Kali Linux Tools
-Network Security Concepts
-Security Research
-Java Development
-Java
-Object-Oriented Programming (OOP)
-Java Swing
-JDBC
-SQLite / MySQL
-Collections Framework
-Data Science
-Python
-NumPy
-Pandas
-Matplotlib
-Seaborn
-Scikit-learn
-Natural Language Processing
-Jupyter Notebook
-VS Code
-Git
-GitHub
-Skills Developed
-Cyber Security
-Network Scanning
-Firewall Configuration
-Security Analysis
-Threat Identification
-Social Engineering Awareness
-Security Research
-Java Development
-Core Java Programming
-Object-Oriented Programming
-Problem Solving
-Application Development
-User Input Handling
-Exception Handling
-Git and GitHub
-Data Science
-Data Collection and Analysis
-Data Preprocessing
-Exploratory Data Analysis
-Data Visualization
-Machine Learning
-Classification
-Regression
-Natural Language Processing
-Model Evaluation
-Python Programming
-Author
+The internship focused on developing practical data science and machine learning skills through data analysis, preprocessing, visualization, classification, regression, and natural language processing.
 
-Name: A. Bheeshma Shankar
+### Completed Projects
 
-College: Chaitanya Bharathi Institute of Technology (CBIT)
+* Iris Flower Classification
+* SMS Spam Detection
+* Car Price Prediction
 
-Branch: Computer Science and Engineering (Artificial Intelligence & Machine Learning)
+Each project folder contains:
 
-GitHub: https://github.com/Bheeshma2234
+* Python Source Code
+* README Documentation
+* Dataset / Dataset Information
+* Data Preprocessing
+* Data Visualization
+* Model Implementation
+* Screenshots
+* Output Images
+* Project Report (if applicable)
 
-Conclusion
+## 🛠️ Technologies Used
 
-The Oasis Infobyte Internship provided an opportunity to gain practical experience across different technical domains including Cyber Security, Java Development, and Data Science.
+### Cyber Security
+
+* Nmap
+* Windows Defender Firewall
+* Kali Linux Tools
+* Network Security Concepts
+* Security Research
+
+### Java Development
+
+* Java
+* Object-Oriented Programming (OOP)
+* Java Swing
+* JDBC
+* SQLite / MySQL
+* Collections Framework
+
+### Data Science
+
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Natural Language Processing
+* Jupyter Notebook
+* VS Code
+* Git
+* GitHub
+
+## 🎯 Skills Developed
+
+### Cyber Security
+
+* Network Scanning
+* Firewall Configuration
+* Security Analysis
+* Threat Identification
+* Social Engineering Awareness
+* Security Research
+
+### Java Development
+
+* Core Java Programming
+* Object-Oriented Programming
+* Problem Solving
+* Application Development
+* User Input Handling
+* Exception Handling
+* Git and GitHub
+
+### Data Science
+
+* Data Collection and Analysis
+* Data Preprocessing
+* Exploratory Data Analysis
+* Data Visualization
+* Machine Learning
+* Classification
+* Regression
+* Natural Language Processing
+* Model Evaluation
+* Python Programming
+
+## 👨‍💻 Author
+
+**A. Bheeshma Shankar**
+
+**College:** Chaitanya Bharathi Institute of Technology (CBIT)
+
+**Branch:** Computer Science and Engineering (Artificial Intelligence & Machine Learning)
+
+**GitHub:** [Bheeshma2234](https://github.com/Bheeshma2234)
+
+## 📝 Conclusion
+
+The **Oasis Infobyte Internship** provided an opportunity to gain practical experience across multiple technical domains, including Cyber Security, Java Development, and Data Science.
 
 The projects in this repository demonstrate practical implementation of programming, cybersecurity concepts, data analysis, machine learning, problem solving, and application development.
 
